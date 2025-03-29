@@ -16,8 +16,8 @@ use Illuminate\Auth\Access\AuthorizationException;
 use Illuminate\Auth\AuthenticationException;
 
 return [
-    'title' => 'API Platform',
-    'description' => 'My awesome API',
+    'title' => 'The Bill API',
+    'description' => 'Dope genie api',
     'version' => '1.0.0',
     'show_webby' => true,
 
