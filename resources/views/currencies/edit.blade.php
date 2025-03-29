@@ -29,7 +29,7 @@
                 @enderror
             </div>
 
-            <button type="submit" class="btn btn-primary">Submit</button>
+            <button type="submit" class="px-4 py-2 font-bold bg-black rounded">Submit</button>
         </form>
     </div>
 </x-app-layout>
